@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="BurgerShopConsoleApp/BurgerShopConsoleApp.csproj" />
+  <Project Path="BurgerShopConsoleAppAcceptanceTests/BurgerShopConsoleAppAcceptanceTests.csproj" />
   <Project Path="BurgerShopConsoleAppTests/BurgerShopConsoleAppTests.csproj" />
 </Solution>
